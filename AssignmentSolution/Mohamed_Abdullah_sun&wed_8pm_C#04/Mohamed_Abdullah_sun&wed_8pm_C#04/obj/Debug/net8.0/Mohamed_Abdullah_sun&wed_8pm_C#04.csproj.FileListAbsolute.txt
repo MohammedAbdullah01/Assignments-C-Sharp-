@@ -1,0 +1,14 @@
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.exe
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.deps.json
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.runtimeconfig.json
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.dll
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\bin\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.pdb
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.AssemblyInfoInputs.cache
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.AssemblyInfo.cs
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.csproj.CoreCompileInputs.cache
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.dll
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\refint\Mohamed_Abdullah_sun&wed_8pm_C#04.dll
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.pdb
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\Mohamed_Abdullah_sun&wed_8pm_C#04.genruntimeconfig.cache
+C:\Users\Rayyan-PC\source\repos\Mohamed_Abdullah_sun&wed_8pm_C#04\Mohamed_Abdullah_sun&wed_8pm_C#04\obj\Debug\net8.0\ref\Mohamed_Abdullah_sun&wed_8pm_C#04.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "18ZolYpLC74=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rayyan-PC\\source\\repos\\Mohamed_Abdullah_sun&wed_8pm_C#03\\Mohamed_Abdullah_sun&wed_8pm_C#03\\Mohamed_Abdullah_sun&wed_8pm_C#03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rayyan-PC\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.6\\microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
+    "C:\\Users\\Rayyan-PC\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\Rayyan-PC\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
